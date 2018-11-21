@@ -1,0 +1,2 @@
+@@005_grants_to_onepoint_from_conference.sql
+exit;

@@ -1,0 +1,8 @@
+# Oracle DB dumps
+scripts.zip
+dumps.zip
+database_import.log
+certs.zip
+**/*.vdi
+**/.vagrant
+docker-oracle-apex-18\.1/
